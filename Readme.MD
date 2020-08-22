@@ -2,6 +2,9 @@
 [![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<BLUE>.svg)](https://shields.io/)
 # Project Title: E-Commerce Backend Assignment
 
+Walkthrough Video: 
+https://drive.google.com/file/d/1fQuvbrJ6cSikZYPfrhLCIgMQFJqzLkE5/view 
+
 ## Description of the application
 
 We are building out an e-commerce backend using JavaScript only. Thus we are using Sequelize and dotnev and another couple technologies
